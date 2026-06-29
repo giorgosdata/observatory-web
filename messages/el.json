@@ -1,0 +1,10 @@
+{
+  "nav": {
+    "home": "Αρχική",
+    "about": "About",
+    "articles": "Άρθρα",
+    "notes": "Σημειώσεις",
+    "appointments": "Ραντεβού",
+    "contact": "Επικοινωνία"
+  }
+}
